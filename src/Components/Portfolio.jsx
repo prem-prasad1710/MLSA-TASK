@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/workspace.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "workspace desk with computer, notebook, and coffee.";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My blog website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "this is my blog website where I write about my experiences and share my knowledge with the world.",
+    url: "https://prem-prasad1710.github.io/frontend-design/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Web Development",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "website for a local business. I designed and developed the site from scratch, including the logo and branding. I also provided training to the business owner on how to update the site themselves.",
+    url: "https://prem-prasad1710.github.io/frontend-design/",
   },
   {
-    title: "My Resume Site",
+    title: "calculator app",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "calculator app that I designed and developed. I used React and deployed it to GitHub pages. I also wrote an article about the process on my blog.",
+    url: "https://prem-prasad1710.github.io/frontend-design/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "interactive resume",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "resume that includes my experience and design abilities. Created from Microsoft's resume workshop and deployed to GitHub pages.",
+    url: "https://prem-prasad1710.github.io/frontend-design/",
   },
 ];
 
